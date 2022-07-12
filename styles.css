@@ -1,0 +1,126 @@
+body{
+  background-color:#f6f0e6;
+}
+.img{
+  width:250px;
+  height:425px;
+  position:relative;
+  margin-top: 80px;
+  margin-left:400px;
+  border-radius:10px 0px 0px 10px;
+}
+.first{
+  font-size: 14px;
+  font-weight: 900;
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left:680px;
+  top:100px;
+}
+.second{
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: 'Fraunces', serif;
+  position: absolute;
+  left:680px;
+  top:130px;
+}
+.third{
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: 'Fraunces', serif;
+  position: absolute;
+  left:680px;
+  top:170px;
+}
+.fourth{
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: 'Fraunces', serif;
+  position: absolute;
+  left:680px;
+  top:210px;
+}
+.background{
+  background-color:white;
+  width:293px;
+  position:absolute;
+  left:658px;
+  top:88px;
+  height:425px;
+  border-radius:0px 10px 10px 0px;
+}
+.fifth{
+  font-size: 14px;
+  font-weight: 900;
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left:680px;
+  top:290px;
+}
+.sixth{
+  font-size: 14px;
+  font-weight: 900;
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left:680px;
+  top:315px;
+}
+.seventh{
+  font-size: 14px;
+  font-weight: 900;
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left:680px;
+  top:340px;
+}
+.eight{
+  font-size: 14px;
+  font-weight: 900;
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left:680px;
+  top:365px;
+}
+.ninth{
+  font-size: 25px;
+  font-weight: bolder;
+  font-family: 'Fraunces', serif;
+  position: absolute;
+  left:680px;
+  top:390px;
+  color: DarkGreen;
+}
+.tenth{
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  font-size:14px;
+  left:800px;
+  top:409px;
+  font-weight: bolder;
+}
+.eleventh{
+  position: absolute;
+
+  left:800px;
+  top:400px;
+  font-weight: bolder;
+}
+.back_{
+  background-color:DarkGreen;
+  width:225px;
+
+  position:absolute;
+  left:680px;
+  top:455px;
+  height:40px;
+  border-radius:10px 10px 10px 10px;
+}
+.add{
+  color:white;
+  position:absolute;
+  font-family: 'Fraunces', serif;
+  left:750px;
+  top:450px;
+
+}
